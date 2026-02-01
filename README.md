@@ -1,6 +1,6 @@
 # NextJS AI Content Generator & Summarizer - Template
 
-> 🚀 **Template Repository** - Fork this repository to follow along with the YouTube tutorial and build your own AI content generator and summarizer from scratch!
+> 🚀 **Template Repository** - Fork this repository to follow along with the YouTube tutorial and build your own AI content generator and summarizer!
 
 A modern, responsive web application template built with Next.js 16 and Groq API that enables users to generate blog content and summarize existing text using advanced AI capabilities. This template serves as the perfect starting point for learning how to integrate AI into web applications.
 
@@ -14,42 +14,10 @@ This is a **complete starter template** designed specifically for the YouTube tu
 - ✅ **Project structure** ready for AI integration
 - ✅ **Development environment** fully configured
 
-**What you'll build during the tutorial:**
-
-- Groq API integration for AI functionality
-- Content generation features
-- Text summarization capabilities
-- Real-time AI responses
-- Error handling and loading states
-
-## � Features
-
-### Blog Content Generator
-
-- **AI-Powered Generation**: Create high-quality blog content from simple topic inputs
-- **Real-time Generation**: Watch content being generated in real-time
-- **Copy to Clipboard**: Easily copy generated content with one click
-- **Reset Functionality**: Clear content and start fresh instantly
-- **Responsive Design**: Optimized for desktop and mobile devices
-
-### Content Summarizer
-
-- **Intelligent Summarization**: Condense long articles, documents, or text into concise summaries
-- **Text Analysis**: Get insights about the original content
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Next.js 16.1.3 with React 19.2.3
-- **Styling**: Tailwind CSS 4.0 with PostCSS
-- **Language**: TypeScript 5.x
-- **AI Integration**: Groq API for fast, efficient AI processing
-- **Development**: ESLint for code quality
-
 ## 📋 Prerequisites
 
 - Node.js 18.x or higher
 - npm or yarn package manager
-- Groq API key (sign up at [console.groq.com](https://console.groq.com))
 
 ## 🚀 Getting Started
 
@@ -117,14 +85,6 @@ This project is open source and available under the [MIT License](LICENSE).
 This repository is part of a YouTube tutorial series where we build this AI content generator and summarizer from scratch.
 
 **🔗 Watch the full tutorial:** [Your YouTube Video Link Here]
-
-In the tutorial, we cover:
-
-- Setting up the Next.js project
-- Integrating Groq API
-- Building the UI components
-- Implementing AI features
-- Deployment strategies
 
 ## 📞 Support
 
