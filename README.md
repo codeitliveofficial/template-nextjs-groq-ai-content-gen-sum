@@ -26,7 +26,7 @@ This is a **complete starter template** designed specifically for the YouTube tu
 ```bash
 # Fork this repository on GitHub first, then clone your fork
 git clone https://github.com/codeitliveofficial/template-nextjs-groq-ai-content-gen-sum.git
-cd nextjs-ai-content-generator
+cd template-nextjs-groq-ai-content-gen-sum
 ```
 
 ### 2. Install Dependencies
